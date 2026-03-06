@@ -8,3 +8,4 @@ add reentrancy attack examples
 add smart contract audit guides
 add solidity vulnerability checklist
 add contract verification tools
+add transaction simulation tools
